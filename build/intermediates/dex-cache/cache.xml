@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Development\AndroidSet\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d13efed891807b094392dadb7e9b54de685e6b77.jar" />
+    </item>
+    <item
+        jar="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a9b0305950948d2404c92f981c959e3e5ae9da02.jar" />
+    </item>
+    <item
+        jar="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\pre-dexed\debug\classes-27c5a93bbd74b5b243c3292fce083bf34f0d14ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\pre-dexed\debug\classes-f07dede9aa1cc0a9f483a7ef15124f94534fd952.jar" />
+    </item>
+    <item
+        jar="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloListView\app\build\intermediates\pre-dexed\debug\classes-08799704bbd28ac5963a4591a46a19ba4f97d133.jar" />
+    </item>
+
+</items>
